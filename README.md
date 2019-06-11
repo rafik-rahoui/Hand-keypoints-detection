@@ -31,4 +31,4 @@ Fine-tining a resnet34 model with Fastai. the full code in the note book.
 <h2>Citing this work:</h2>
 If you use this code and would like to cite this work, use the below:
 <br>
-rafik Rahoui: Hand keypoints detection using Convolutional Neural Networks, https://github.com/rafik-rahoui/HKPD
+rafik Rahoui: Hand keypoints detection using Convolutional Neural Networks, https://github.com/rafik-rahoui/Hand-keypoints-detection
